@@ -1,0 +1,26 @@
+
+/* Day time scenario*/
+
+body{
+		background: url(../img/sky.png); background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: 100%;
+		overflow: hidden;
+	}
+
+.surface{
+	height: 260px;
+	width: 500%;
+	background: url(../img/dayland.png);
+	display: block;
+	position: absolute;	
+	bottom: 0px;
+	left: 0px;
+	overflow: hidden;
+	position: fixed;
+	z-index: -1;
+	background-repeat:repeat-x;
+	
+}
+

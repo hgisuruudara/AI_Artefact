@@ -1,0 +1,18 @@
+
+
+
+
+.surface{
+	height: 160px;
+	width: 500%;
+	background: url(../img/land03.png);
+	display: block;
+	position: absolute;	
+	bottom: 0px;
+	left: 0px;
+	overflow: hidden;
+	position: fixed;
+	z-index: -1;
+	background-repeat:repeat-x;
+	
+}
